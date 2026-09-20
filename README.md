@@ -10,11 +10,11 @@ Instead of overcomplicating the analytics with unnecessary code, this solution p
 
 ### 1. Executive Overview
 Utilizes the standardized core dashboard layout to track macro-level workforce health, active headcount, overall turnover rate, and core demographic distributions across departments and job roles.
-* **Visual Asset:** `Overview.png`
+* **Visual Asset:** `overview ibm rh.png`
 
 ### 2. Detailed Breakdown
 Shares the identical structural design framework as the Executive Overview to maintain visual consistency, but operates as a deep-dive retention dashboard configured to analyze psychometric satisfaction scores, career stagnation trends, overtime impact multipliers, and salary band hotspots.
-* **Visual Asset:** `Detailed Breakdown.png`
+* **Visual Asset:** `Detailed Breakdown IBM HR .png`
 
 ---
 
