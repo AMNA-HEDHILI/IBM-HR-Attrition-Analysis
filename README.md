@@ -52,7 +52,4 @@ To move beyond basic headcount counting, several custom metrics were developed u
 
 ---
 
-## ⚙️ How to Explore the Project
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/your-username/IBM-HR-Attrition-Analysis-Dashboard-Power-BI.git](https://github.com/your-username/IBM-HR-Attrition-Analysis-Dashboard-Power-BI.git)
+
